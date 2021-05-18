@@ -1,10 +1,10 @@
 export const getAvatars = async () => { 
 
-    const res = await fetch('');
+    const res = await fetch('https://last-airbender-api.herokuapp.com/api/v1/characters?affiliation=Water+Tribe');
     const avatars = res.json() 
 
     return avatars.map((avatar) => {
-        
+
     })
 
 }
