@@ -3,5 +3,656 @@
 exports[`Testing MainPage Container should render a list of avatar characters and redired to a detail page 1`] = `
 <ul
   aria-label="avatars"
-/>
+  class="ul"
+>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab68d0"
+      >
+        <img
+          alt="Amon"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/0/00/Amon_and_his_Equalists.png/revision/latest?cb=20160219113422"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Amon
+      </p>
+      <p>
+         Affiliation: 
+         Equalists (formerly) Northern Water Tribe (formerly)
+      </p>
+      <p>
+         Allies: 
+        Tarrlok
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab68d6"
+      >
+        <img
+          alt="Arnook"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/0/0c/Chief.png/revision/latest?cb=20140122221730"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Arnook
+      </p>
+      <p>
+         Affiliation: 
+        Northern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Aang
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab68e7"
+      >
+        <img
+          alt="Bato"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/e/e3/Bato_smiling.png/revision/latest?cb=20130626122901"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Bato
+      </p>
+      <p>
+         Affiliation: 
+        Southern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Aang
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab6912"
+      >
+        <img
+          alt="Desna and Eska"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/1/1b/Chiefs_Desna_and_Eska.png/revision/latest?cb=20140730174236"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Desna and Eska
+      </p>
+      <p>
+         Affiliation: 
+        Northern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Northern Water Tribe
+        
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab6941"
+      >
+        <img
+          alt="Gilak"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/c/cd/Gilak.png/revision/latest?cb=20170524065046"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Gilak
+      </p>
+      <p>
+         Affiliation: 
+        Southern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Hakoda
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab6953"
+      >
+        <img
+          alt="Hahn"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/4/46/Hahn.png/revision/latest?cb=20140122221732"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Hahn
+      </p>
+      <p>
+         Affiliation: 
+        Northern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Northern Water Tribe
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab6954"
+      >
+        <img
+          alt="Hakoda"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/4/4e/Hakoda_smiling.png/revision/latest?cb=20140510202641"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Hakoda
+      </p>
+      <p>
+         Affiliation: 
+        Southern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Kya
+        
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab6956"
+      >
+        <img
+          alt="Hama"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/4/4d/Sinister_Hama.png/revision/latest?cb=20111215082556"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Hama
+      </p>
+      <p>
+         Affiliation: 
+        Southern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Southern Water Tribe
+        
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab6966"
+      >
+        <img
+          alt="Hiryu"
+          class="mainPic"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Hiryu
+      </p>
+      <p>
+         Affiliation: 
+        Northern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Team Avatar
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab696a"
+      >
+        <img
+          alt="Hotah"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/4/4c/Judge_Hotah.png/revision/latest?cb=20131008135523"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Hotah
+      </p>
+      <p>
+         Affiliation: 
+        Northern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Unalaq
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab6974"
+      >
+        <img
+          alt="Iknik Blackstone Varrick"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/4/48/Varrick_looking_smug.png/revision/latest?cb=20131116223858"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Iknik Blackstone Varrick
+      </p>
+      <p>
+         Affiliation: 
+         Kuvira's army (deserted) Metal Clan (formerly) Southern Water Tribe rebels (formerly) Team Avatar Varrick Global Industries
+      </p>
+      <p>
+         Allies: 
+        Zhu Li
+        
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab6990"
+      >
+        <img
+          alt="Kanna"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/4/47/Kanna.png/revision/latest?cb=20130822224809"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Kanna
+      </p>
+      <p>
+         Affiliation: 
+         Northern Water Tribe (formerly) Southern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Southern Water Tribe
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab6992"
+      >
+        <img
+          alt="Katara"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/7/7a/Katara_smiles_at_coronation.png/revision/latest?cb=20150104171449"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Katara
+      </p>
+      <p>
+         Affiliation: 
+         Team Avatar Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Southern Water Tribe
+        Aang
+        
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab69a1"
+      >
+        <img
+          alt="Korra"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/c/ca/Korra.png/revision/latest?cb=20150406235047"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Korra
+      </p>
+      <p>
+         Affiliation: 
+         Fire Ferrets (formerly) Southern Water Tribe Tarrlok's task force (formerly) Team Avatar
+      </p>
+      <p>
+         Allies: 
+        Southern Water Tribe
+        
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab69a9"
+      >
+        <img
+          alt="Kya"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/7/77/Kya_%28waterbender%29.png/revision/latest?cb=20151102093816"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Kya
+      </p>
+      <p>
+         Affiliation: 
+        Southern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Southern Water Tribe
+        
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab69aa"
+      >
+        <img
+          alt="Kya (nonbender)"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/b/b5/Kya_%28nonbender%29.png/revision/latest?cb=20170523213135"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Kya (nonbender)
+      </p>
+      <p>
+         Affiliation: 
+        Southern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Southern Water Tribe
+        
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab69ab"
+      >
+        <img
+          alt="Kya (pilot)"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/d/de/Kya_pilot.png/revision/latest?cb=20130126192101"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Kya (pilot)
+      </p>
+      <p>
+         Affiliation: 
+         Team Avatar Water Tribes
+      </p>
+      <p>
+         Allies: 
+        Aang
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab69ad"
+      >
+        <img
+          alt="La"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/3/32/La.png/revision/latest?cb=20140124171520"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        La
+      </p>
+      <p>
+         Affiliation: 
+         Spirit World Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Tui
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab69ca"
+      >
+        <img
+          alt="Malina"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/8/84/Malina.png/revision/latest?cb=20161026183603"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Malina
+      </p>
+      <p>
+         Affiliation: 
+        Southern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Hakoda
+        
+      </p>
+    </div>
+  </li>
+  <li
+    class="list"
+  >
+    <div
+      class="mainCards"
+    >
+      <a
+        activeclassname="selected"
+        exact="true"
+        href="/details/5cf5679a915ecad153ab69cb"
+      >
+        <img
+          alt="Maliq"
+          class="mainPic"
+          src="https://vignette.wikia.nocookie.net/avatar/images/4/42/Maliq.png/revision/latest?cb=20161026183604"
+          style="width: 250px; border-radius: 5em;"
+        />
+      </a>
+      <p>
+        Character Name: 
+        Maliq
+      </p>
+      <p>
+         Affiliation: 
+         Ba Sing Se University[1] (formerly) Northern Water Tribe
+      </p>
+      <p>
+         Allies: 
+        Malina
+      </p>
+    </div>
+  </li>
+</ul>
 `;

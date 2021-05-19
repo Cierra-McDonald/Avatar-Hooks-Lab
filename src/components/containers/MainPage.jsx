@@ -1,6 +1,8 @@
 import React, {useState, useEffect } from 'react'
 import { getAvatars } from '../services/AvatarApi'
-import CharacterList  from './CharacterList'
+import CharacterList  from '../presentations/CharacterList'
+import styles from './Containers.css'
+import avatar from '../../assets/avatar.png'
 
 const MainPage = () => {
     const [avatars, setAvatars] = useState([]);
