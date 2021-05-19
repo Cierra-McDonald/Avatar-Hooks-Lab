@@ -7,6 +7,7 @@ body {
 
 .detail { 
     background-color: black;
+    font-size: 18px;
     color: paleturquoise;
     border: paleturquoise 15px solid;
     border-radius: 25% 10%;
@@ -20,6 +21,7 @@ body {
 .dImage { 
     box-shadow: seashell 2px 2px;
     cursor: pointer;
+    width: 350px;
 }
 .dImage:hover { 
     box-shadow: paleturquoise 2px 2px;
