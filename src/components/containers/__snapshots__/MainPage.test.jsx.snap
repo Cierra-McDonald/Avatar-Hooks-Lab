@@ -11,6 +11,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Amon
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -23,10 +27,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Amon
-      </p>
       <p>
          Affiliation: 
          Equalists (formerly) Northern Water Tribe (formerly)
@@ -43,6 +43,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Arnook
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -55,10 +59,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Arnook
-      </p>
       <p>
          Affiliation: 
         Northern Water Tribe
@@ -75,6 +75,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Bato
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -87,10 +91,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Bato
-      </p>
       <p>
          Affiliation: 
         Southern Water Tribe
@@ -107,6 +107,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Desna and Eska
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -119,10 +123,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Desna and Eska
-      </p>
       <p>
          Affiliation: 
         Northern Water Tribe
@@ -140,6 +140,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Gilak
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -152,10 +156,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Gilak
-      </p>
       <p>
          Affiliation: 
         Southern Water Tribe
@@ -172,6 +172,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Hahn
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -184,10 +188,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Hahn
-      </p>
       <p>
          Affiliation: 
         Northern Water Tribe
@@ -204,6 +204,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Hakoda
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -216,10 +220,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Hakoda
-      </p>
       <p>
          Affiliation: 
         Southern Water Tribe
@@ -237,6 +237,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Hama
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -249,10 +253,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Hama
-      </p>
       <p>
          Affiliation: 
         Southern Water Tribe
@@ -270,6 +270,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Hiryu
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -281,10 +285,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Hiryu
-      </p>
       <p>
          Affiliation: 
         Northern Water Tribe
@@ -301,6 +301,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Hotah
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -313,10 +317,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Hotah
-      </p>
       <p>
          Affiliation: 
         Northern Water Tribe
@@ -333,6 +333,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Iknik Blackstone Varrick
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -345,10 +349,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Iknik Blackstone Varrick
-      </p>
       <p>
          Affiliation: 
          Kuvira's army (deserted) Metal Clan (formerly) Southern Water Tribe rebels (formerly) Team Avatar Varrick Global Industries
@@ -366,6 +366,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Kanna
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -378,10 +382,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Kanna
-      </p>
       <p>
          Affiliation: 
          Northern Water Tribe (formerly) Southern Water Tribe
@@ -398,6 +398,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Katara
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -410,10 +414,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Katara
-      </p>
       <p>
          Affiliation: 
          Team Avatar Water Tribe
@@ -432,6 +432,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Korra
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -444,10 +448,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Korra
-      </p>
       <p>
          Affiliation: 
          Fire Ferrets (formerly) Southern Water Tribe Tarrlok's task force (formerly) Team Avatar
@@ -465,6 +465,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Kya
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -478,10 +482,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
         />
       </a>
       <p>
-        Character Name: 
-        Kya
-      </p>
-      <p>
          Affiliation: 
         Southern Water Tribe
       </p>
@@ -498,6 +498,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Kya (nonbender)
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -511,10 +515,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
         />
       </a>
       <p>
-        Character Name: 
-        Kya (nonbender)
-      </p>
-      <p>
          Affiliation: 
         Southern Water Tribe
       </p>
@@ -531,6 +531,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Kya (pilot)
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -543,10 +547,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Kya (pilot)
-      </p>
       <p>
          Affiliation: 
          Team Avatar Water Tribes
@@ -563,6 +563,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        La
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -575,10 +579,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        La
-      </p>
       <p>
          Affiliation: 
          Spirit World Water Tribe
@@ -595,6 +595,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Malina
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -607,10 +611,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Malina
-      </p>
       <p>
          Affiliation: 
         Southern Water Tribe
@@ -628,6 +628,10 @@ exports[`Testing MainPage Container should render a list of avatar characters an
     <div
       class="mainCards"
     >
+      <p>
+        Character: 
+        Maliq
+      </p>
       <a
         activeclassname="selected"
         exact="true"
@@ -640,10 +644,6 @@ exports[`Testing MainPage Container should render a list of avatar characters an
           style="width: 250px; border-radius: 5em;"
         />
       </a>
-      <p>
-        Character Name: 
-        Maliq
-      </p>
       <p>
          Affiliation: 
          Ba Sing Se University[1] (formerly) Northern Water Tribe
