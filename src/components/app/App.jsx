@@ -4,7 +4,7 @@ import {
   BrowserRouter as Router, 
   Route, 
   Switch } from 'react-router-dom'
-  import DetailPage from '../presentations/DetailPage'
+  import DetailPage from '../containers/DetailPage'
 
 
 export default class App extends Component {

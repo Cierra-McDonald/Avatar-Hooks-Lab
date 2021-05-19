@@ -6,6 +6,11 @@ const CharacterList = ({ avatars, loading }) => {
  
         return (
             <div>
+                {
+                loading
+                    ?
+                <h2>Loading...</h2>
+                    :
                 <ul  aria-label="avatars">
                     {avatars.map(avatar => 
                         (<li key={avatar.id}>
@@ -19,6 +24,7 @@ const CharacterList = ({ avatars, loading }) => {
                         </li>) 
                         )}
                 </ul>
+                }
             </div>
         )
     

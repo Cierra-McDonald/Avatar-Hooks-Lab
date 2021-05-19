@@ -1,0 +1,25 @@
+body { 
+    background: rgb(209,206,196);
+    background: radial-gradient(circle, rgba(209,206,196,1) 65%, rgba(5,5,5,1) 100%);    
+}
+
+.detail { 
+    background-color: black;
+    color: paleturquoise;
+    border: paleturquoise 15px solid;
+    border-radius: 25% 10%;
+    padding-top: 20px;
+    width: 35%;
+    margin: auto;
+    font-family: fantasy;
+    
+}
+
+.dImage { 
+    box-shadow: seashell 2px 2px;
+    cursor: pointer;
+}
+img:hover { 
+    box-shadow: paleturquoise 2px 2px;
+    transform: scale(1.1);
+}
